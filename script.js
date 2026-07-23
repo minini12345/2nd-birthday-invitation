@@ -10,7 +10,7 @@ const memories = [
   { month: 20, label: "MAR", date: "2026.03", caption: "할머니와 함께 결혼식에 간 날", image: "./images/20.jpg" },
   { month: 21, label: "APR", date: "2026.04", caption: "벚꽃처럼 웃음이 피어난 일본 여행", image: "./images/21.jpg" },
   { month: 22, label: "MAY", date: "2026.05", caption: "멋쟁이로 한층 성장한 22개월", image: "./images/22.jpg" },
-  { month: 23, label: "JUN", date: "2026.06", caption: "두 번째 괌 여행에서 보낸 행복한 시간", image: "./images/23.jpg" }
+  { month: 23, label: "JUN", date: "2026.06", caption: "두 번째 괌에서 행복한 시간", image: "./images/23.jpg" }
 ];
 
 const feed = document.querySelector("#feed");
