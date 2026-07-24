@@ -3,7 +3,7 @@ const memories = [
   { month: 13, label: "AUG", date: "2025.08", caption: "혼자 일어서기 시작한 날", image: "./images/13.jpg" },
   { month: 14, label: "SEP", date: "2025.09", caption: "인생 첫 더운 여름", image: "./images/14.jpg" },
   { month: 15, label: "OCT", date: "2025.10", caption: "친할아버지와 함께한 괌 여행", image: "./images/15.jpg" },
-  { month: 16, label: "NOV", date: "2025.11", caption: "목욕 후 더욱 사랑스러웠던 순간", image: "./images/16.jpg" },
+  { month: 16, label: "NOV", date: "2025.11", caption: "할머니와 어린이대공원 간 날", image: "./images/16.jpg" },
   { month: 17, label: "DEC", date: "2025.12", caption: "삼촌 집에서 환하게 웃던 날", image: "./images/17.jpg" },
   { month: 18, label: "JAN", date: "2026.01", caption: "새해를 함께 맞이한 순간", image: "./images/18.jpg" },
   { month: 19, label: "FEB", date: "2026.02", caption: "색동 한복을 입고 맞이한 설날", image: "./images/19.jpg" },
